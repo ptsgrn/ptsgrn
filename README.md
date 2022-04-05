@@ -19,11 +19,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/patsagorn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="patsagorn" /></a><a href="https://ko-fi.com/ptsgrn"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ptsgrn" /></a></p>
 
-
-
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ptsgrn&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="ptsgrn" width="210"/></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ptsgrn&show_icons=true&locale=en&theme=onedark&hide_border=true" width="300" alt="ptsgrn" /></p>
+<p align="left">&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ptsgrn&show_icons=true&locale=en&theme=onedark&hide_border=true" width="300" alt="ptsgrn" /></p>
