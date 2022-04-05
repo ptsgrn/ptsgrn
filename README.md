@@ -20,6 +20,6 @@ Just <a href="https://linktr.ee/patsagorn">linktr.ee/patsagorn</a> ;)
 
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ptsgrn&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="ptsgrn" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ptsgrn&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="ptsgrn" width="300"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ptsgrn&show_icons=true&locale=en&theme=onedark&hide_border=true" alt="ptsgrn" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ptsgrn&show_icons=true&locale=en&theme=onedark&hide_border=true" width="500" alt="ptsgrn" /></p>
