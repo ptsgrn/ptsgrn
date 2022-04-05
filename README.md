@@ -24,6 +24,6 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ptsgrn&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="ptsgrn" height="200"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ptsgrn&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true" alt="ptsgrn" width="210"/></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ptsgrn&show_icons=true&locale=en&theme=onedark&hide_border=true" height="200" alt="ptsgrn" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ptsgrn&show_icons=true&locale=en&theme=onedark&hide_border=true" width="300" alt="ptsgrn" /></p>
