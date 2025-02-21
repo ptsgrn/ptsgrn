@@ -23,3 +23,4 @@
 ```
 
 [![My holopin](https://holopin.me/ptsgrn)](https://holopin.io/@ptsgrn)
+![Wakapi chart](https://wakapi.dev/api/activity/chart/ptsgrn.svg)
