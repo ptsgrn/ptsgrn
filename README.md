@@ -6,10 +6,10 @@
   ██║  ██║  ███████╗ ███████╗ ███████╗ ╚██████╔╝ ██╗
   ╚═╝  ╚═╝  ╚══════╝ ╚══════╝ ╚══════╝  ╚═════╝  ╚═╝
 
-  I am Patsagorn Yuenyong,  a  Computer  Science  Freshman at
-  Chulalongkorn University, Thailand. I am interested in  Web
-  Technology  and  Computational Linguistics  and  believe in
-  Opensource.  Also  Wikimedian,  Uncyclopedian and EN <=> TH
+  I am Patsagorn Yuenyong,  a  Computer Science sophomore at
+  Chulalongkorn University, thailand. I am interested in Web
+  Technology  and  Computational  Linguistics and believe in
+  Opensource. Also Wikimedian,  Uncyclopedian  and EN <=> TH
   amateur translator.
 
   🔭 #Website: 'https://ptsgrn.dev'
