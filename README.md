@@ -1,5 +1,3 @@
-![A hand holding namecard size of hand palm with name Patsagorn on it](./pics.jpg)
-
 ```js
   ██╗  ██╗  ███████╗ ██╗      ██╗       ██████╗  ██╗
   ██║  ██║  ██╔════╝ ██║      ██║      ██╔═══██╗ ██║
@@ -23,6 +21,7 @@
       { Twitter: '@ptsgrn' }
       { LinkedIn: 'https://www.linkedin.com/in/patsagorn/' }
 ```
+![A hand holding namecard size of hand palm with name Patsagorn on it](./pics.jpg)
 
 [![My holopin](https://holopin.me/ptsgrn)](https://holopin.io/@ptsgrn)
 ![Wakapi chart](https://wakatime.ptsgrn.dev/api/activity/chart/ptsgrn.svg)
